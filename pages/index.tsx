@@ -13,7 +13,7 @@ const Home: NextPage = () => {
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <main>Karthick Ragavendran</main>
-      <footer>footer</footer>
+      <footer>footer text</footer>
     </div>
   )
 }
