@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       <main>
         <div>Karthick Ragavendran</div>
         <div>Web developer.</div>
-        <div>React</div>
+        <div>React.</div>
       </main>
       <footer>footer text</footer>
     </div>
